@@ -1,3 +1,3 @@
 # Pupster App
 
-A dog matching app you never knew you needed.
+A pup matching app you never knew you needed.
